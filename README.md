@@ -8,3 +8,5 @@ Demo project for StandupAI
 "Added payment UI"
 
 "Code review changes"
+
+"Sprint updates"
