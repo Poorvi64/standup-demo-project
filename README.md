@@ -6,3 +6,5 @@ Demo project for StandupAI
 "Fixed login bug"
 
 "Added payment UI"
+
+"Code review changes"
