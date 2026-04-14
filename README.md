@@ -2,4 +2,5 @@
 Demo project for StandupAI
 
 "Team working on authentication module"
+
 "Fixed login bug"
