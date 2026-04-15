@@ -24,3 +24,5 @@ Demo project for StandupAI
 "Added error handling for API calls"
 
 "Updated unit tests for auth module"
+
+"Code review: approved PR from Priya"
