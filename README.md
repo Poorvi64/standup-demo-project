@@ -10,3 +10,5 @@ Demo project for StandupAI
 "Code review changes"
 
 "Sprint updates"
+
+"Implemented user authentication flow"
