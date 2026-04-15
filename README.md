@@ -18,3 +18,5 @@ Demo project for StandupAI
 "Added responsive design for mobile"
 
 "Resolved merge conflict in main branch"
+
+"Optimised database query performance"
