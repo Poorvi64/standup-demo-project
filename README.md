@@ -12,3 +12,5 @@ Demo project for StandupAI
 "Sprint updates"
 
 "Implemented user authentication flow"
+
+ "Fixed critical payment gateway bug"
