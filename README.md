@@ -22,3 +22,5 @@ Demo project for StandupAI
 "Optimised database query performance"
 
 "Added error handling for API calls"
+
+"Updated unit tests for auth module"
