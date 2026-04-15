@@ -20,3 +20,5 @@ Demo project for StandupAI
 "Resolved merge conflict in main branch"
 
 "Optimised database query performance"
+
+"Added error handling for API calls"
