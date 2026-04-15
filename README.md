@@ -14,3 +14,5 @@ Demo project for StandupAI
 "Implemented user authentication flow"
 
  "Fixed critical payment gateway bug"
+
+"Added responsive design for mobile"
